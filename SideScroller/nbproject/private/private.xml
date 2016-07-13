@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/AliveFlyingEnemy.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/HurtBoss.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/AliveBoss.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/Player.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/ui/Background.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/Projectile.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/AliveGroundEnemy.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/EnemyFactory.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/ui/Ground.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/MovableFigure.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/DyingGroundEnemy.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/controller/ButtonListener.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/DyingBoss.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/view/GamePanel.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/enemies/GroundEnemy.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/GameData.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/controller/Main.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/ui/HealthBars.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/ExplodingProjectile.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/view/MainWindow.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/DyingFlyingEnemy.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/controller/Animator.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/enemies/FlyingEnemy.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/FigureState.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/ui/BulletCount.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/DescendingBoss.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/DoneProjectile.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/enemies/BossEnemy.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/GameFigure.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/enemies/Enemy.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/DoneEnemy.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/states/ActiveProjectile.java</file>
+            <file>file:/C:/Users/Omid/Dropbox/General%20Programming/NetBeansProjects/projectOmidN/src/model/ui/Observer.java</file>
+        </group>
+    </open-files>
+</project-private>
